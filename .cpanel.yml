@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/user/ktl.orderdevspot.best/
+    - export DEPLOYPATH=/home/user/ktldemo.orderdevspot.best/
