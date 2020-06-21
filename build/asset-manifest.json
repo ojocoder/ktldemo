@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eee48aee.chunk.css",
+    "main.js": "/static/js/main.8a36212d.chunk.js",
+    "main.js.map": "/static/js/main.8a36212d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14902600.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14902600.js.map",
+    "static/js/2.093bf744.chunk.js": "/static/js/2.093bf744.chunk.js",
+    "static/js/2.093bf744.chunk.js.map": "/static/js/2.093bf744.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9f09ca43cfc90d73a40a594208205196.js": "/precache-manifest.9f09ca43cfc90d73a40a594208205196.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eee48aee.chunk.css.map": "/static/css/main.eee48aee.chunk.css.map",
+    "static/js/2.093bf744.chunk.js.LICENSE.txt": "/static/js/2.093bf744.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/KaushanScript-Regular.7a814d9d.otf",
+    "static/media/about-section.png": "/static/media/about-section.3a76311b.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ec763292.svg",
+    "static/media/framingeng.jpg": "/static/media/framingeng.05aab584.jpg",
+    "static/media/header.jpeg": "/static/media/header.74290522.jpeg",
+    "static/media/imageprintout.jpg": "/static/media/imageprintout.0bd3ba32.jpg",
+    "static/media/kbprinthead.jpg": "/static/media/kbprinthead.5d995b3c.jpg",
+    "static/media/photobook-sample-section.jpg": "/static/media/photobook-sample-section.f215f7de.jpg",
+    "static/media/wallframes.jpg": "/static/media/wallframes.33d8af82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14902600.js",
+    "static/js/2.093bf744.chunk.js",
+    "static/css/main.eee48aee.chunk.css",
+    "static/js/main.8a36212d.chunk.js"
+  ]
+}
